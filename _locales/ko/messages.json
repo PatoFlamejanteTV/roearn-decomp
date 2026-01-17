@@ -1,0 +1,311 @@
+{
+  "extName": {
+    "message": "RoEarn: Roblox 구매 캐시백"
+  },
+  "extDescription": {
+    "message": "Roblox 에서 모든 구매에 Robux 캐시백을 받으세요!"
+  },
+  "extActionTitle": {
+    "message": "RoEarn 대시보드 열기"
+  },
+  "badgeEarn": {
+    "message": "획득"
+  },
+  "buy": {
+    "message": "구매"
+  },
+  "ineligible": {
+    "message": "대상 아님"
+  },
+  "successPopupTitle": {
+    "message": "구매 완료"
+  },
+  "successPopupMessage": {
+    "message": "$2 로 $1 을(를) 성공적으로 획득했습니다."
+  },
+  "successPopupCashback": {
+    "message": "$1 이(가) RoEarn 잔액에 추가되었습니다."
+  },
+  "successPopupBalanceBtn": {
+    "message": "잔액"
+  },
+  "successPopupCustomizeBtn": {
+    "message": "커스터마이즈"
+  },
+  "successPopupContinueBtn": {
+    "message": "계속"
+  },
+  "notEligibleForCashback": {
+    "message": "캐시백 대상 아님"
+  },
+  "tooltipRobloxLimited": {
+    "message": "Roblox 가 만든 Limited 는 캐시백 대상이 아닙니다."
+  },
+  "tooltipNotInGame": {
+    "message": "이 아이템은 게임 내에서 구매할 수 없어 대상이 아닙니다."
+  },
+  "tooltipPriceTooLow": {
+    "message": "가격이 캐시백을 받기에 너무 낮습니다. 최소 가격은 $1 Robux 입니다."
+  },
+  "catalogBuyBtn": {
+    "message": "RoEarn 으로 구매 (획득 $1)"
+  },
+  "tooltipGamepassMinPrice": {
+    "message": "캐시백을 받으려면 게임패스 가격이 40 Robux보다 높아야 합니다."
+  },
+  "gamepassBuyBtn": {
+    "message": "구매 (획득 $1)"
+  },
+  "tooltipGamepassMinPriceShort": {
+    "message": "캐시백을 받으려면 게임패스 가격이 40 Robux보다 높아야 합니다."
+  },
+  "earnAmount": {
+    "message": "(획득 $1)"
+  },
+  "errorDiscordSupport": {
+    "message": "오류 $1: Discord 에 참여하세요: <a href=\"https://discord.gg/roearnsupport\" target=\"_blank\">discord.gg/roearnsupport</a>"
+  },
+  "roEarnBalance": {
+    "message": "RoEarn 잔액: $1 Robux"
+  },
+  "roEarnBalanceLoading": {
+    "message": "RoEarn 잔액: 로딩 중..."
+  },
+  "reviewPromptText": {
+    "message": "RoEarn 이 도움이 되었나요? 리뷰를 남겨주세요!"
+  },
+  "checkoutPageTitle": {
+    "message": "RoEarn 결제"
+  },
+  "checkoutTitle": {
+    "message": "구매 완료"
+  },
+  "checkoutSubtitle": {
+    "message": "Roblox 구매에서 캐시백을 받으세요"
+  },
+  "checkoutSaveBadge": {
+    "message": "$1 Robux 절약!"
+  },
+  "checkoutHowItWorks": {
+    "message": "작동 방식"
+  },
+  "checkoutStep1": {
+    "message": "아래 플레이 버튼으로 RoEarn 허브에 참여하세요."
+  },
+  "checkoutStep2": {
+    "message": "게임 내에서 $1 을(를) 구매하라는 메시지가 표시됩니다."
+  },
+  "checkoutStep3": {
+    "message": "$1 캐시백이 즉시 RoEarn 잔액에 적립됩니다."
+  },
+  "checkoutAutoJoin": {
+    "message": "항상 자동으로 RoEarn 허브에 참여"
+  },
+  "dashboardPageTitle": {
+    "message": "RoEarn 대시보드"
+  },
+  "dashboardTitle": {
+    "message": "RoEarn 대시보드"
+  },
+  "dashboardSubtitle": {
+    "message": "수익과 초대를 관리하세요"
+  },
+  "welcomeTitle": {
+    "message": "RoEarn 에 오신 것을 환영합니다"
+  },
+  "welcomeSubtitle": {
+    "message": "시작하기 위한 빠른 튜토리얼 비디오"
+  },
+  "referralEntryTitle": {
+    "message": "누군가 RoEarn 에 초대했나요?"
+  },
+  "referralEntryDescription": {
+    "message": "그들의 코드를 입력하면 둘 다 추가 캐시백을 받습니다!"
+  },
+  "referralInputPlaceholder": {
+    "message": "초대 코드 입력"
+  },
+  "optionalLabel": {
+    "message": "(선택 사항)"
+  },
+  "startButton": {
+    "message": "RoEarn 사용 시작"
+  },
+  "loadingText": {
+    "message": "로딩 중..."
+  },
+  "errorInvalidReferralCode": {
+    "message": "잘못된 초대 코드"
+  },
+  "errorOwnReferralCode": {
+    "message": "자신의 초대 코드는 사용할 수 없습니다"
+  },
+  "errorSetReferralFailed": {
+    "message": "초대 설정 실패. "
+  },
+  "errorReferralAlreadyUsed": {
+    "message": "이미 초대 코드를 사용했습니다."
+  },
+  "errorInvalidReferralCodeRetry": {
+    "message": "잘못된 코드입니다. 확인 후 다시 시도하세요."
+  },
+  "errorVerificationFailed": {
+    "message": "인증 실패. 다시 시도하세요."
+  },
+  "errorPleaseTryAgain": {
+    "message": "다시 시도하세요."
+  },
+  "bonusAddedText": {
+    "message": "5 Robux 가 RoEarn 잔액에 추가되었습니다!"
+  },
+  "yourBalanceLabel": {
+    "message": "RoEarn 잔액"
+  },
+  "withdrawButton": {
+    "message": "Roblox 로 출금"
+  },
+  "errorMinWithdrawal": {
+    "message": "최소 출금 금액은 4 Robux입니다."
+  },
+  "withdrawalSuccessTitle": {
+    "message": "출금 성공"
+  },
+  "withdrawalSuccessMessage": {
+    "message": "구매가 표시되는 데 시간이 걸릴 수 있으므로 약 45초 후에 <b><u>보류 중인 Robux</u></b> 및 <b><u>상품 판매</u></b>를 확인하세요."
+  },
+  "viewTransactionsCountdown": {
+    "message": "거래 보기 ($1)"
+  },
+  "viewTransactionsButton": {
+    "message": "거래 보기"
+  },
+  "referralProgramTitle": {
+    "message": "친구 초대하기"
+  },
+  "yourReferralCodeLabel": {
+    "message": "내 초대 코드"
+  },
+  "copyButton": {
+    "message": "복사"
+  },
+  "copiedButton": {
+    "message": "복사됨!"
+  },
+  "totalEarnedLabel": {
+    "message": "총 수익"
+  },
+  "referralsLabel": {
+    "message": "초대"
+  },
+  "referralDescription": {
+    "message": "<span class=\"roearn-referral-highlight\">초대 코드를 공유하세요. </span>누군가 귀하의 코드를 사용하여 RoEarn을 설치하면 <b>즉시 15 Robux</b>를 얻습니다!<br><br>귀하의 초대 코드를 사용하는 사람은 누구나 <b>5 Robux</b>를 받게 됩니다!<br><br><b>⚠️ 면책 조항:</b> 대체 계정은 15 Robux 보상을 받지 않습니다."
+  },
+  "backButton": {
+    "message": "← 뒤로"
+  },
+  "yourReferralsTitle": {
+    "message": "내 초대"
+  },
+  "noReferralsMessage": {
+    "message": "아직 초대가 없습니다. 코드를 공유하여 수익을 시작하세요!"
+  },
+  "loadingReferralProfiles": {
+    "message": "초대된 프로필 로딩 중..."
+  },
+  "errorAuthFailed": {
+    "message": "인증 실패. Roblox 에 로그인했는지 확인하세요."
+  },
+  "errorAuthRetry": {
+    "message": "인증 실패. 다시 시도하세요."
+  },
+  "errorFetchGames": {
+    "message": "게임을 가져오지 못했습니다. 최소 하나의 게임이 있는지 확인하세요."
+  },
+  "errorFetchGamesRetry": {
+    "message": "게임을 가져오지 못했습니다. 다시 시도하세요."
+  },
+  "errorNoGames": {
+    "message": "추천 코드를 사용하기 전에 먼저 Roblox 게임을 만들어야 합니다."
+  },
+  "errorSecurityToken": {
+    "message": "보안 토큰을 가져오지 못했습니다. 페이지를 새로고침하고 다시 시도하세요."
+  },
+  "errorCreateGamepass": {
+    "message": "인증 게임패스 생성 실패. 다시 시도하세요."
+  },
+  "errorUpdateGamepass": {
+    "message": "게임패스 세부 정보 업데이트 실패. 다시 시도하세요."
+  },
+  "errorFetchGamepasses": {
+    "message": "게임패스를 가져오지 못했습니다. 다시 시도하세요."
+  },
+  "errorNoGamepasses": {
+    "message": "인증에 사용할 수 있는 게임패스가 없습니다. 다시 시도하세요."
+  },
+  "errorUpdateVerification": {
+    "message": "인증용 게임패스 업데이트 실패. 다시 시도하세요."
+  },
+  "errorUnexpected": {
+    "message": "오류가 발생했습니다. 다시 시도하세요."
+  },
+  "cartTitle": {
+    "message": "장바구니 ($1)"
+  },
+  "cartEmpty": {
+    "message": "장바구니가 비어 있습니다"
+  },
+  "cartRemove": {
+    "message": "삭제"
+  },
+  "cartTotal": {
+    "message": "총: $1개 항목"
+  },
+  "cartTotalPlural": {
+    "message": "총: $1개 항목"
+  },
+  "checkoutBulkStep2": {
+    "message": "게임 내에서 아이템을 구매하라는 메시지가 표시됩니다."
+  },
+  "checkoutBulkStep2Single": {
+    "message": "게임 내에서 항목을 구매하라는 메시지가 표시됩니다."
+  },
+  "cartTotalLabel": {
+    "message": "합계"
+  },
+  "addToCart": {
+    "message": "RoEarn 장바구니에 추가"
+  },
+  "removeFromCart": {
+    "message": "RoEarn 장바구니에서 제거"
+  },
+  "somethingWentWrong": {
+    "message": "문제가 발생했습니다. 몇 분 후에 다시 시도해 주세요."
+  },
+  "copyExtensionLink": {
+    "message": "확장 프로그램 링크 복사"
+  },
+  "altDetectedText": {
+    "message": "⚠️ 알트 감지됨"
+  },
+  "pendingRobuxNotice": {
+    "message": "X Robux 가 보류 중입니다. 2분 후에 다시 확인하세요."
+  },
+  "tooltipOffSale": {
+    "message": "이 아이템은 원본을 현재 구매할 수 없기 때문에 캐시백 대상이 아닙니다."
+  },
+  "contentCreatorTitle": {
+    "message": "Shorts 제작 및 Robux 획득"
+  },
+  "contentCreatorPayout": {
+    "message": "YouTube 및 TikTok에서 1,000회 조회당 100 Robux 획득"
+  },
+  "contentCreatorDescription": {
+    "message": "동영상은 RoEarn 확장 프로그램과 그 기능을 명확하게 보여주는 고품질 쇼트 영상이어야 합니다. TikTok과 YouTube에 동영상을 게시하는 것이 좋습니다."
+  },
+  "contentCreatorContact": {
+    "message": "creators@roearn.io로 연락하여 Robux를 청구하세요"
+  },
+  "contentCreatorLink": {
+    "message": "🔗 동영상에 \"roearn.io\"를 포함해야 합니다!"
+  }
+}

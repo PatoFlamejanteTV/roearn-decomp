@@ -1,0 +1,311 @@
+{
+  "extName": {
+    "message": "RoEarn: Roblox 購入でキャッシュバック"
+  },
+  "extDescription": {
+    "message": "Roblox でのすべての購入で Robux キャッシュバックを獲得！"
+  },
+  "extActionTitle": {
+    "message": "RoEarn ダッシュボードを開く"
+  },
+  "badgeEarn": {
+    "message": "獲得"
+  },
+  "buy": {
+    "message": "購入"
+  },
+  "ineligible": {
+    "message": "対象外"
+  },
+  "successPopupTitle": {
+    "message": "購入完了"
+  },
+  "successPopupMessage": {
+    "message": "$1 を $2 で正常に取得しました。"
+  },
+  "successPopupCashback": {
+    "message": "$1 が RoEarn 残高に追加されました。"
+  },
+  "successPopupBalanceBtn": {
+    "message": "残高"
+  },
+  "successPopupCustomizeBtn": {
+    "message": "カスタマイズ"
+  },
+  "successPopupContinueBtn": {
+    "message": "続ける"
+  },
+  "notEligibleForCashback": {
+    "message": "キャッシュバック対象外"
+  },
+  "tooltipRobloxLimited": {
+    "message": "Roblox が作成した Limited はキャッシュバック対象外です。"
+  },
+  "tooltipNotInGame": {
+    "message": "このアイテムはゲーム内で購入できないため対象外です。"
+  },
+  "tooltipPriceTooLow": {
+    "message": "価格がキャッシュバックには低すぎます。最低価格は $1 Robux です。"
+  },
+  "catalogBuyBtn": {
+    "message": "RoEarn で購入（獲得 $1）"
+  },
+  "tooltipGamepassMinPrice": {
+    "message": "キャッシュバックの対象となるには、ゲームパスの価格が 40 Robux を超えている必要があります。"
+  },
+  "gamepassBuyBtn": {
+    "message": "購入（獲得 $1）"
+  },
+  "tooltipGamepassMinPriceShort": {
+    "message": "キャッシュバックの対象となるには、ゲームパスの価格が 40 Robux を超えている必要があります。"
+  },
+  "earnAmount": {
+    "message": "（獲得 $1）"
+  },
+  "errorDiscordSupport": {
+    "message": "エラー $1：Discord に参加してください：<a href=\"https://discord.gg/roearnsupport\" target=\"_blank\">discord.gg/roearnsupport</a>"
+  },
+  "roEarnBalance": {
+    "message": "RoEarn 残高：$1 Robux"
+  },
+  "roEarnBalanceLoading": {
+    "message": "RoEarn 残高：読み込み中..."
+  },
+  "reviewPromptText": {
+    "message": "RoEarn は機能しましたか？レビューをお願いします！"
+  },
+  "checkoutPageTitle": {
+    "message": "RoEarn チェックアウト"
+  },
+  "checkoutTitle": {
+    "message": "購入を完了"
+  },
+  "checkoutSubtitle": {
+    "message": "Roblox 購入でキャッシュバックを獲得"
+  },
+  "checkoutSaveBadge": {
+    "message": "$1 Robux 節約！"
+  },
+  "checkoutHowItWorks": {
+    "message": "仕組み"
+  },
+  "checkoutStep1": {
+    "message": "下のプレイボタンで RoEarn ハブに参加してください。"
+  },
+  "checkoutStep2": {
+    "message": "ゲーム内で $1 を購入するよう求められます。"
+  },
+  "checkoutStep3": {
+    "message": "$1 のキャッシュバックが即座に RoEarn 残高に追加されます。"
+  },
+  "checkoutAutoJoin": {
+    "message": "常に自動で RoEarn ハブに参加"
+  },
+  "dashboardPageTitle": {
+    "message": "RoEarn ダッシュボード"
+  },
+  "dashboardTitle": {
+    "message": "RoEarn ダッシュボード"
+  },
+  "dashboardSubtitle": {
+    "message": "収益と招待を管理"
+  },
+  "welcomeTitle": {
+    "message": "RoEarn へようこそ"
+  },
+  "welcomeSubtitle": {
+    "message": "始めるためのクイックチュートリアル動画"
+  },
+  "referralEntryTitle": {
+    "message": "誰かに RoEarn に招待されましたか？"
+  },
+  "referralEntryDescription": {
+    "message": "コードを入力すると、両方が追加キャッシュバックを獲得できます！"
+  },
+  "referralInputPlaceholder": {
+    "message": "招待コードを入力"
+  },
+  "optionalLabel": {
+    "message": "（任意）"
+  },
+  "startButton": {
+    "message": "RoEarn を使い始める"
+  },
+  "loadingText": {
+    "message": "読み込み中..."
+  },
+  "errorInvalidReferralCode": {
+    "message": "無効な招待コード"
+  },
+  "errorOwnReferralCode": {
+    "message": "自分の招待コードは使用できません"
+  },
+  "errorSetReferralFailed": {
+    "message": "招待の設定に失敗しました。"
+  },
+  "errorReferralAlreadyUsed": {
+    "message": "既に招待コードを使用しています。"
+  },
+  "errorInvalidReferralCodeRetry": {
+    "message": "無効なコード。確認して再試行してください。"
+  },
+  "errorVerificationFailed": {
+    "message": "検証に失敗しました。再試行してください。"
+  },
+  "errorPleaseTryAgain": {
+    "message": "再試行してください。"
+  },
+  "bonusAddedText": {
+    "message": "5 Robux が RoEarn 残高に追加されました！"
+  },
+  "yourBalanceLabel": {
+    "message": "RoEarn 残高"
+  },
+  "withdrawButton": {
+    "message": "Roblox に引き出し"
+  },
+  "errorMinWithdrawal": {
+    "message": "最低出金額は4 Robuxです。"
+  },
+  "withdrawalSuccessTitle": {
+    "message": "引き出し成功"
+  },
+  "withdrawalSuccessMessage": {
+    "message": "購入が表示されるまでに少し時間がかかる場合があるため、約45秒後に<b><u>保留中のRobux</u></b>と<b><u>商品の販売</u></b>を確認してください。"
+  },
+  "viewTransactionsCountdown": {
+    "message": "取引を表示（$1）"
+  },
+  "viewTransactionsButton": {
+    "message": "取引を表示"
+  },
+  "referralProgramTitle": {
+    "message": "友達を招待"
+  },
+  "yourReferralCodeLabel": {
+    "message": "あなたの招待コード"
+  },
+  "copyButton": {
+    "message": "コピー"
+  },
+  "copiedButton": {
+    "message": "コピーしました！"
+  },
+  "totalEarnedLabel": {
+    "message": "合計獲得額"
+  },
+  "referralsLabel": {
+    "message": "招待"
+  },
+  "referralDescription": {
+    "message": "<span class=\"roearn-referral-highlight\">招待コードを共有しましょう。</span>誰かがあなたのコードを使用してRoEarnをインストールすると、<b>即座に15 Robux</b>を獲得できます！<br><br>あなたの招待コードを使用した人は誰でも<b>5 Robux</b>を獲得できます！<br><br><b>⚠️ 免責事項：</b>代替アカウントは15 Robuxの報酬を受け取りません。"
+  },
+  "backButton": {
+    "message": "← 戻る"
+  },
+  "yourReferralsTitle": {
+    "message": "あなたの招待"
+  },
+  "noReferralsMessage": {
+    "message": "まだ招待がありません。コードを共有して稼ぎ始めましょう！"
+  },
+  "loadingReferralProfiles": {
+    "message": "招待されたプロフィールを読み込み中..."
+  },
+  "errorAuthFailed": {
+    "message": "認証に失敗しました。Roblox にログインしていることを確認してください。"
+  },
+  "errorAuthRetry": {
+    "message": "認証に失敗しました。再試行してください。"
+  },
+  "errorFetchGames": {
+    "message": "ゲームの取得に失敗しました。少なくとも1つのゲームがあることを確認してください。"
+  },
+  "errorFetchGamesRetry": {
+    "message": "ゲームの取得に失敗しました。再試行してください。"
+  },
+  "errorNoGames": {
+    "message": "紹介コードを使用する前に、まず Roblox ゲームを作成する必要があります。"
+  },
+  "errorSecurityToken": {
+    "message": "セキュリティトークンの取得に失敗しました。ページを更新して再試行してください。"
+  },
+  "errorCreateGamepass": {
+    "message": "検証ゲームパスの作成に失敗しました。再試行してください。"
+  },
+  "errorUpdateGamepass": {
+    "message": "ゲームパスの詳細の更新に失敗しました。再試行してください。"
+  },
+  "errorFetchGamepasses": {
+    "message": "ゲームパスの取得に失敗しました。再試行してください。"
+  },
+  "errorNoGamepasses": {
+    "message": "検証に使用できるゲームパスがありません。再試行してください。"
+  },
+  "errorUpdateVerification": {
+    "message": "検証用ゲームパスの更新に失敗しました。再試行してください。"
+  },
+  "errorUnexpected": {
+    "message": "エラーが発生しました。再試行してください。"
+  },
+  "cartTitle": {
+    "message": "ショッピングカート ($1)"
+  },
+  "cartEmpty": {
+    "message": "カートは空です"
+  },
+  "cartRemove": {
+    "message": "削除"
+  },
+  "cartTotal": {
+    "message": "合計: $1 アイテム"
+  },
+  "cartTotalPlural": {
+    "message": "合計: $1 アイテム"
+  },
+  "checkoutBulkStep2": {
+    "message": "ゲーム内でアイテムを購入するよう求められます。"
+  },
+  "checkoutBulkStep2Single": {
+    "message": "ゲーム内でアイテムを購入するよう求められます。"
+  },
+  "cartTotalLabel": {
+    "message": "合計"
+  },
+  "addToCart": {
+    "message": "RoEarn カートに追加"
+  },
+  "removeFromCart": {
+    "message": "RoEarn カートから削除"
+  },
+  "somethingWentWrong": {
+    "message": "問題が発生しました。数分後にもう一度お試しください。"
+  },
+  "copyExtensionLink": {
+    "message": "拡張機能のリンクをコピー"
+  },
+  "altDetectedText": {
+    "message": "⚠️ オルト検出"
+  },
+  "pendingRobuxNotice": {
+    "message": "X Robux が保留中です。2分後にもう一度確認してください。"
+  },
+  "tooltipOffSale": {
+    "message": "このアイテムはキャッシュバックの対象外です。オリジナルが現在購入できないためです。"
+  },
+  "contentCreatorTitle": {
+    "message": "Shorts を作成して Robux を獲得"
+  },
+  "contentCreatorPayout": {
+    "message": "YouTube と TikTok で1,000回再生ごとに 100 Robux を獲得"
+  },
+  "contentCreatorDescription": {
+    "message": "動画は、RoEarn拡張機能とその機能を明確に紹介する高品質なショート動画である必要があります。TikTokとYouTubeに動画を投稿することをお勧めします。"
+  },
+  "contentCreatorContact": {
+    "message": "creators@roearn.io に連絡して Robux を請求してください"
+  },
+  "contentCreatorLink": {
+    "message": "🔗 動画に \"roearn.io\" を含めることを忘れずに！"
+  }
+}

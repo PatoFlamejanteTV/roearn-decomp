@@ -1,0 +1,311 @@
+{
+  "extName": {
+    "message": "RoEarn: Roblox 购买返现"
+  },
+  "extDescription": {
+    "message": "在 Roblox 上的每次购买都能获得 Robux 返现！"
+  },
+  "extActionTitle": {
+    "message": "打开 RoEarn 控制面板"
+  },
+  "badgeEarn": {
+    "message": "赚取"
+  },
+  "buy": {
+    "message": "购买"
+  },
+  "ineligible": {
+    "message": "不符合条件"
+  },
+  "successPopupTitle": {
+    "message": "购买完成"
+  },
+  "successPopupMessage": {
+    "message": "您已成功以 $2 获得 $1。"
+  },
+  "successPopupCashback": {
+    "message": "$1 已添加到您的 RoEarn 余额。"
+  },
+  "successPopupBalanceBtn": {
+    "message": "余额"
+  },
+  "successPopupCustomizeBtn": {
+    "message": "自定义"
+  },
+  "successPopupContinueBtn": {
+    "message": "继续"
+  },
+  "notEligibleForCashback": {
+    "message": "不符合返现条件"
+  },
+  "tooltipRobloxLimited": {
+    "message": "Roblox 创建的 Limited 不符合返现条件。"
+  },
+  "tooltipNotInGame": {
+    "message": "此物品不符合条件，因为无法在游戏内购买。"
+  },
+  "tooltipPriceTooLow": {
+    "message": "价格太低无法获得返现。最低价格为 $1 Robux。"
+  },
+  "catalogBuyBtn": {
+    "message": "使用 RoEarn 购买（赚取 $1）"
+  },
+  "tooltipGamepassMinPrice": {
+    "message": "游戏通行证价格必须高于 40 Robux 才能获得返现。"
+  },
+  "gamepassBuyBtn": {
+    "message": "购买（赚取 $1）"
+  },
+  "tooltipGamepassMinPriceShort": {
+    "message": "游戏通行证价格必须高于 40 Robux 才能获得返现。"
+  },
+  "earnAmount": {
+    "message": "（赚取 $1）"
+  },
+  "errorDiscordSupport": {
+    "message": "错误 $1：请加入我们的 Discord：<a href=\"https://discord.gg/roearnsupport\" target=\"_blank\">discord.gg/roearnsupport</a>"
+  },
+  "roEarnBalance": {
+    "message": "RoEarn 余额：$1 Robux"
+  },
+  "roEarnBalanceLoading": {
+    "message": "RoEarn 余额：加载中..."
+  },
+  "reviewPromptText": {
+    "message": "RoEarn 有用吗？给我们评价！"
+  },
+  "checkoutPageTitle": {
+    "message": "RoEarn 结账"
+  },
+  "checkoutTitle": {
+    "message": "完成您的购买"
+  },
+  "checkoutSubtitle": {
+    "message": "在您的 Roblox 购买中获得返现"
+  },
+  "checkoutSaveBadge": {
+    "message": "节省 $1 Robux！"
+  },
+  "checkoutHowItWorks": {
+    "message": "如何运作"
+  },
+  "checkoutStep1": {
+    "message": "使用下方的播放按钮加入 RoEarn 中心。"
+  },
+  "checkoutStep2": {
+    "message": "您将被提示在游戏内购买 $1。"
+  },
+  "checkoutStep3": {
+    "message": "您的 $1 返现将立即记入您的 RoEarn 余额。"
+  },
+  "checkoutAutoJoin": {
+    "message": "始终自动加入 RoEarn 中心"
+  },
+  "dashboardPageTitle": {
+    "message": "RoEarn 控制面板"
+  },
+  "dashboardTitle": {
+    "message": "RoEarn 控制面板"
+  },
+  "dashboardSubtitle": {
+    "message": "管理您的收入和邀请"
+  },
+  "welcomeTitle": {
+    "message": "欢迎来到 RoEarn"
+  },
+  "welcomeSubtitle": {
+    "message": "这是一个快速入门教程视频"
+  },
+  "referralEntryTitle": {
+    "message": "有人邀请您加入 RoEarn 吗？"
+  },
+  "referralEntryDescription": {
+    "message": "输入他们的代码，你们都将获得额外返现！"
+  },
+  "referralInputPlaceholder": {
+    "message": "输入邀请码"
+  },
+  "optionalLabel": {
+    "message": "（可选）"
+  },
+  "startButton": {
+    "message": "开始使用 RoEarn"
+  },
+  "loadingText": {
+    "message": "加载中..."
+  },
+  "errorInvalidReferralCode": {
+    "message": "无效的邀请码"
+  },
+  "errorOwnReferralCode": {
+    "message": "您不能使用自己的邀请码"
+  },
+  "errorSetReferralFailed": {
+    "message": "设置邀请失败。"
+  },
+  "errorReferralAlreadyUsed": {
+    "message": "您已经使用过邀请码。"
+  },
+  "errorInvalidReferralCodeRetry": {
+    "message": "无效代码。请检查后重试。"
+  },
+  "errorVerificationFailed": {
+    "message": "验证失败。请重试。"
+  },
+  "errorPleaseTryAgain": {
+    "message": "请重试。"
+  },
+  "bonusAddedText": {
+    "message": "5 Robux 已添加到您的 RoEarn 余额！"
+  },
+  "yourBalanceLabel": {
+    "message": "您的 RoEarn 余额"
+  },
+  "withdrawButton": {
+    "message": "提取到 Roblox"
+  },
+  "errorMinWithdrawal": {
+    "message": "最低提款金额为 4 Robux。"
+  },
+  "withdrawalSuccessTitle": {
+    "message": "提取成功"
+  },
+  "withdrawalSuccessMessage": {
+    "message": "请在大约45秒后检查您的<b><u>待处理的Robux</u></b>和<b><u>商品销售</u></b>，因为购买可能需要一些时间才能显示。"
+  },
+  "viewTransactionsCountdown": {
+    "message": "查看交易（$1）"
+  },
+  "viewTransactionsButton": {
+    "message": "查看交易"
+  },
+  "referralProgramTitle": {
+    "message": "邀请好友"
+  },
+  "yourReferralCodeLabel": {
+    "message": "您的邀请码"
+  },
+  "copyButton": {
+    "message": "复制"
+  },
+  "copiedButton": {
+    "message": "已复制！"
+  },
+  "totalEarnedLabel": {
+    "message": "总收入"
+  },
+  "referralsLabel": {
+    "message": "邀请"
+  },
+  "referralDescription": {
+    "message": "<span class=\"roearn-referral-highlight\">分享您的邀请码。</span>当有人使用您的代码安装 RoEarn 时，您可以<b>立即获得 15 Robux！</b><br><br>使用您邀请码的任何人都将获得 <b>5 Robux！</b><br><br><b>⚠️ 免责声明：</b>替代账户将不会获得 15 Robux 奖励。"
+  },
+  "backButton": {
+    "message": "← 返回"
+  },
+  "yourReferralsTitle": {
+    "message": "您的邀请"
+  },
+  "noReferralsMessage": {
+    "message": "还没有邀请。分享您的代码开始赚钱！"
+  },
+  "loadingReferralProfiles": {
+    "message": "正在加载被邀请的资料..."
+  },
+  "errorAuthFailed": {
+    "message": "身份验证失败。请确保您已登录 Roblox。"
+  },
+  "errorAuthRetry": {
+    "message": "身份验证失败。请重试。"
+  },
+  "errorFetchGames": {
+    "message": "无法获取游戏。请确保您至少有一个游戏。"
+  },
+  "errorFetchGamesRetry": {
+    "message": "无法获取游戏。请重试。"
+  },
+  "errorNoGames": {
+    "message": "您需要先创建一个 Roblox 游戏才能使用推荐码。"
+  },
+  "errorSecurityToken": {
+    "message": "获取安全令牌失败。请刷新页面后重试。"
+  },
+  "errorCreateGamepass": {
+    "message": "创建验证游戏通行证失败。请重试。"
+  },
+  "errorUpdateGamepass": {
+    "message": "更新游戏通行证详情失败。请重试。"
+  },
+  "errorFetchGamepasses": {
+    "message": "无法获取游戏通行证。请重试。"
+  },
+  "errorNoGamepasses": {
+    "message": "没有可用于验证的游戏通行证。请重试。"
+  },
+  "errorUpdateVerification": {
+    "message": "更新验证游戏通行证失败。请重试。"
+  },
+  "errorUnexpected": {
+    "message": "发生错误。请重试。"
+  },
+  "cartTitle": {
+    "message": "购物车 ($1)"
+  },
+  "cartEmpty": {
+    "message": "您的购物车是空的"
+  },
+  "cartRemove": {
+    "message": "移除"
+  },
+  "cartTotal": {
+    "message": "共计：$1 件商品"
+  },
+  "cartTotalPlural": {
+    "message": "共计：$1 件商品"
+  },
+  "checkoutBulkStep2": {
+    "message": "您将在游戏中被提示购买您的商品。"
+  },
+  "checkoutBulkStep2Single": {
+    "message": "您将在游戏中被提示购买您的商品。"
+  },
+  "cartTotalLabel": {
+    "message": "总计"
+  },
+  "addToCart": {
+    "message": "添加到 RoEarn 购物车"
+  },
+  "removeFromCart": {
+    "message": "从 RoEarn 购物车移除"
+  },
+  "somethingWentWrong": {
+    "message": "出了点问题。请几分钟后再试。"
+  },
+  "copyExtensionLink": {
+    "message": "复制扩展链接"
+  },
+  "altDetectedText": {
+    "message": "⚠️ 可疑账号"
+  },
+  "pendingRobuxNotice": {
+    "message": "您有 X Robux 待处理。请在 2 分钟后再查看。"
+  },
+  "tooltipOffSale": {
+    "message": "此物品不符合返现资格，因为原版目前无法购买。"
+  },
+  "contentCreatorTitle": {
+    "message": "创作 Shorts 赚取 Robux"
+  },
+  "contentCreatorPayout": {
+    "message": "在 YouTube 和 TikTok 上每 1,000 次观看获得 100 Robux"
+  },
+  "contentCreatorDescription": {
+    "message": "视频必须是高质量的短视频，清楚地展示RoEarn扩展程序及其功能。建议将视频发布到TikTok和YouTube。"
+  },
+  "contentCreatorContact": {
+    "message": "联系 creators@roearn.io 领取您的 Robux"
+  },
+  "contentCreatorLink": {
+    "message": "🔗 确保在您的视频中包含 \"roearn.io\"！"
+  }
+}

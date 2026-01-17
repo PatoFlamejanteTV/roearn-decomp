@@ -1,0 +1,311 @@
+{
+  "extName": {
+    "message": "RoEarn: Roblox Alımlarında Cashback"
+  },
+  "extDescription": {
+    "message": "Roblox üzerinde her satın alımda Robux cashback kazan!"
+  },
+  "extActionTitle": {
+    "message": "RoEarn Panelini Aç"
+  },
+  "badgeEarn": {
+    "message": "Kazan"
+  },
+  "buy": {
+    "message": "Satın Al"
+  },
+  "ineligible": {
+    "message": "Uygun Değil"
+  },
+  "successPopupTitle": {
+    "message": "Satın Alma Tamamlandı"
+  },
+  "successPopupMessage": {
+    "message": "$1 ürününü $2 karşılığında başarıyla aldınız."
+  },
+  "successPopupCashback": {
+    "message": "$1 RoEarn bakiyenize eklendi."
+  },
+  "successPopupBalanceBtn": {
+    "message": "Bakiye"
+  },
+  "successPopupCustomizeBtn": {
+    "message": "Özelleştir"
+  },
+  "successPopupContinueBtn": {
+    "message": "Devam"
+  },
+  "notEligibleForCashback": {
+    "message": "Cashback İçin Uygun Değil"
+  },
+  "tooltipRobloxLimited": {
+    "message": "Roblox tarafından oluşturulan Limitedler cashback için uygun değildir."
+  },
+  "tooltipNotInGame": {
+    "message": "Bu öğe oyun içinde satın alınamadığı için uygun değildir."
+  },
+  "tooltipPriceTooLow": {
+    "message": "Fiyat cashback için çok düşük. Minimum fiyat $1 Robux."
+  },
+  "catalogBuyBtn": {
+    "message": "RoEarn ile Satın Al (Kazan $1)"
+  },
+  "tooltipGamepassMinPrice": {
+    "message": "Gamepass fiyatı cashback almaya hak kazanmak için 40 Robux'tan yüksek olmalıdır."
+  },
+  "gamepassBuyBtn": {
+    "message": "Satın Al (Kazan $1)"
+  },
+  "tooltipGamepassMinPriceShort": {
+    "message": "Gamepass fiyatı cashback almaya hak kazanmak için 40 Robux'tan yüksek olmalıdır."
+  },
+  "earnAmount": {
+    "message": "(Kazan $1)"
+  },
+  "errorDiscordSupport": {
+    "message": "Hata $1: Discord'umuza katılın: <a href=\"https://discord.gg/roearnsupport\" target=\"_blank\">discord.gg/roearnsupport</a>"
+  },
+  "roEarnBalance": {
+    "message": "RoEarn Bakiyesi: $1 Robux"
+  },
+  "roEarnBalanceLoading": {
+    "message": "RoEarn Bakiyesi: Yükleniyor..."
+  },
+  "reviewPromptText": {
+    "message": "RoEarn işe yaradı mı? Değerlendirme bırakın!"
+  },
+  "checkoutPageTitle": {
+    "message": "RoEarn Ödeme"
+  },
+  "checkoutTitle": {
+    "message": "Satın Almayı Tamamla"
+  },
+  "checkoutSubtitle": {
+    "message": "Roblox satın alımınızda cashback alın"
+  },
+  "checkoutSaveBadge": {
+    "message": "$1 Robux Tasarruf Et!"
+  },
+  "checkoutHowItWorks": {
+    "message": "Nasıl Çalışır"
+  },
+  "checkoutStep1": {
+    "message": "Aşağıdaki oynat düğmesiyle RoEarn hub'ına katılın."
+  },
+  "checkoutStep2": {
+    "message": "Oyun içinde $1 satın almanız istenecek."
+  },
+  "checkoutStep3": {
+    "message": "$1 cashback'iniz anında RoEarn bakiyenize eklenecek."
+  },
+  "checkoutAutoJoin": {
+    "message": "Her zaman otomatik olarak RoEarn hub'ına katıl"
+  },
+  "dashboardPageTitle": {
+    "message": "RoEarn Paneli"
+  },
+  "dashboardTitle": {
+    "message": "RoEarn Paneli"
+  },
+  "dashboardSubtitle": {
+    "message": "Kazançlarınızı ve davetlerinizi yönetin"
+  },
+  "welcomeTitle": {
+    "message": "RoEarn'e Hoş Geldiniz"
+  },
+  "welcomeSubtitle": {
+    "message": "Başlamanız için hızlı bir eğitim videosu"
+  },
+  "referralEntryTitle": {
+    "message": "Birisi sizi RoEarn'e davet etti mi?"
+  },
+  "referralEntryDescription": {
+    "message": "Kodlarını girin ve ikiniz de ekstra cashback alın!"
+  },
+  "referralInputPlaceholder": {
+    "message": "Davet kodunu girin"
+  },
+  "optionalLabel": {
+    "message": "(İSTEĞE BAĞLI)"
+  },
+  "startButton": {
+    "message": "RoEarn'i kullanmaya başla"
+  },
+  "loadingText": {
+    "message": "Yükleniyor..."
+  },
+  "errorInvalidReferralCode": {
+    "message": "Geçersiz davet kodu"
+  },
+  "errorOwnReferralCode": {
+    "message": "Kendi davet kodunuzu kullanamazsınız"
+  },
+  "errorSetReferralFailed": {
+    "message": "Davet ayarlanamadı. "
+  },
+  "errorReferralAlreadyUsed": {
+    "message": "Zaten bir davet kodu kullandınız."
+  },
+  "errorInvalidReferralCodeRetry": {
+    "message": "Geçersiz kod. Kontrol edip tekrar deneyin."
+  },
+  "errorVerificationFailed": {
+    "message": "Doğrulama başarısız. Tekrar deneyin."
+  },
+  "errorPleaseTryAgain": {
+    "message": "Tekrar deneyin."
+  },
+  "bonusAddedText": {
+    "message": "5 Robux RoEarn bakiyenize eklendi!"
+  },
+  "yourBalanceLabel": {
+    "message": "RoEarn Bakiyeniz"
+  },
+  "withdrawButton": {
+    "message": "Roblox'a Çek"
+  },
+  "errorMinWithdrawal": {
+    "message": "Minimum çekim tutarı 4 Robux'tür."
+  },
+  "withdrawalSuccessTitle": {
+    "message": "Çekim Başarılı"
+  },
+  "withdrawalSuccessMessage": {
+    "message": "Lütfen yaklaşık 45 saniye içinde <b><u>Bekleyen Robux</u></b> ve <b><u>Mal Satışı</u></b> bölümünüzü kontrol edin, çünkü satın alma işleminin görünmesi biraz zaman alabilir."
+  },
+  "viewTransactionsCountdown": {
+    "message": "İşlemleri Görüntüle ($1)"
+  },
+  "viewTransactionsButton": {
+    "message": "İşlemleri Görüntüle"
+  },
+  "referralProgramTitle": {
+    "message": "Arkadaşlarını Davet Et"
+  },
+  "yourReferralCodeLabel": {
+    "message": "Davet Kodunuz"
+  },
+  "copyButton": {
+    "message": "Kopyala"
+  },
+  "copiedButton": {
+    "message": "Kopyalandı!"
+  },
+  "totalEarnedLabel": {
+    "message": "Toplam Kazanılan"
+  },
+  "referralsLabel": {
+    "message": "Davetler"
+  },
+  "referralDescription": {
+    "message": "<span class=\"roearn-referral-highlight\">Davet kodunuzu paylaşın. </span>Birisi kodunuzu kullanarak RoEarn'i yüklediğinde, <b>anında 15 Robux</b> kazanırsınız!<br><br>Davet kodunuzu kullanan herkes <b>5 Robux alacak!</b><br><br><b>⚠️ Feragatname:</b> Alternatif hesaplar 15 Robux ödülü almayacaktır."
+  },
+  "backButton": {
+    "message": "← Geri"
+  },
+  "yourReferralsTitle": {
+    "message": "Davetleriniz"
+  },
+  "noReferralsMessage": {
+    "message": "Henüz davet yok. Kazanmaya başlamak için kodunuzu paylaşın!"
+  },
+  "loadingReferralProfiles": {
+    "message": "Davet edilen profiller yükleniyor..."
+  },
+  "errorAuthFailed": {
+    "message": "Kimlik doğrulama başarısız. Roblox'a giriş yaptığınızdan emin olun."
+  },
+  "errorAuthRetry": {
+    "message": "Kimlik doğrulama başarısız. Tekrar deneyin."
+  },
+  "errorFetchGames": {
+    "message": "Oyunlar alınamadı. En az bir oyununuz olduğundan emin olun."
+  },
+  "errorFetchGamesRetry": {
+    "message": "Oyunlar alınamadı. Tekrar deneyin."
+  },
+  "errorNoGames": {
+    "message": "Referans kodu kullanmadan önce bir Roblox oyunu oluşturmalısınız."
+  },
+  "errorSecurityToken": {
+    "message": "Güvenlik tokeni alınamadı. Sayfayı yenileyin ve tekrar deneyin."
+  },
+  "errorCreateGamepass": {
+    "message": "Doğrulama gamepassi oluşturulamadı. Tekrar deneyin."
+  },
+  "errorUpdateGamepass": {
+    "message": "Gamepass detayları güncellenemedi. Tekrar deneyin."
+  },
+  "errorFetchGamepasses": {
+    "message": "Gamepassler alınamadı. Tekrar deneyin."
+  },
+  "errorNoGamepasses": {
+    "message": "Doğrulama için gamepass yok. Tekrar deneyin."
+  },
+  "errorUpdateVerification": {
+    "message": "Doğrulama için gamepass güncellenemedi. Tekrar deneyin."
+  },
+  "errorUnexpected": {
+    "message": "Bir hata oluştu. Tekrar deneyin."
+  },
+  "cartTitle": {
+    "message": "Alışveriş Sepeti ($1)"
+  },
+  "cartEmpty": {
+    "message": "Sepetiniz boş"
+  },
+  "cartRemove": {
+    "message": "Kaldır"
+  },
+  "cartTotal": {
+    "message": "Toplam: $1 ürün"
+  },
+  "cartTotalPlural": {
+    "message": "Toplam: $1 ürün"
+  },
+  "checkoutBulkStep2": {
+    "message": "Oyun içinde ürünlerinizi satın almanız istenecek."
+  },
+  "checkoutBulkStep2Single": {
+    "message": "Oyun içinde ürününüzü satın almanız istenecek."
+  },
+  "cartTotalLabel": {
+    "message": "Toplam"
+  },
+  "addToCart": {
+    "message": "RoEarn Sepetine Ekle"
+  },
+  "removeFromCart": {
+    "message": "RoEarn Sepetinden Kaldır"
+  },
+  "somethingWentWrong": {
+    "message": "Bir şeyler yanlış gitti. Lütfen birkaç dakika içinde tekrar deneyin."
+  },
+  "copyExtensionLink": {
+    "message": "Uzantı bağlantısını kopyala"
+  },
+  "altDetectedText": {
+    "message": "⚠️ Alt Tespit Edildi"
+  },
+  "pendingRobuxNotice": {
+    "message": "Beklemede X Robux var. 2 dakika sonra tekrar kontrol edin."
+  },
+  "tooltipOffSale": {
+    "message": "Bu öğe cashback için uygun değil çünkü orijinali şu anda satın alınamıyor."
+  },
+  "contentCreatorTitle": {
+    "message": "Shorts Oluştur ve Robux Kazan"
+  },
+  "contentCreatorPayout": {
+    "message": "YouTube & TikTok'ta 1.000 görüntüleme başına 100 Robux kazan"
+  },
+  "contentCreatorDescription": {
+    "message": "Video, RoEarn uzantısını ve özelliklerini açıkça sergileyen kaliteli bir kısa film olmalıdır. Videonun TikTok ve YouTube'da yayınlanması önerilir."
+  },
+  "contentCreatorContact": {
+    "message": "Robux'unuzu talep etmek için creators@roearn.io ile iletişime geçin"
+  },
+  "contentCreatorLink": {
+    "message": "🔗 Videonuza \"roearn.io\" eklediğinizden emin olun!"
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "extName": {
+    "message": "RoEarn: Cashback za zakupy w Roblox"
+  },
+  "extDescription": {
+    "message": "Zdobywaj Robux cashback przy każdym zakupie na Roblox!"
+  },
+  "extActionTitle": {
+    "message": "Otwórz Panel RoEarn"
+  },
+  "badgeEarn": {
+    "message": "Zdobądź"
+  },
+  "buy": {
+    "message": "Kup"
+  },
+  "ineligible": {
+    "message": "Nieuprawiony"
+  },
+  "successPopupTitle": {
+    "message": "Zakup Zakończony"
+  },
+  "successPopupMessage": {
+    "message": "Pomyślnie nabyłeś $1 za $2."
+  },
+  "successPopupCashback": {
+    "message": "$1 zostało dodane do Twojego salda RoEarn."
+  },
+  "successPopupBalanceBtn": {
+    "message": "Saldo"
+  },
+  "successPopupCustomizeBtn": {
+    "message": "Dostosuj"
+  },
+  "successPopupContinueBtn": {
+    "message": "Kontynuuj"
+  },
+  "notEligibleForCashback": {
+    "message": "Nieuprawiony do Cashbacku"
+  },
+  "tooltipRobloxLimited": {
+    "message": "Limitedy stworzone przez Roblox nie są uprawnione do cashbacku."
+  },
+  "tooltipNotInGame": {
+    "message": "Ten przedmiot nie jest uprawniony, ponieważ nie można go kupić w grze."
+  },
+  "tooltipPriceTooLow": {
+    "message": "Cena jest za niska na cashback. Minimalna cena to $1 Robux."
+  },
+  "catalogBuyBtn": {
+    "message": "Kup z RoEarn (Zdobądź $1)"
+  },
+  "tooltipGamepassMinPrice": {
+    "message": "Cena gamepassu musi być wyższa niż 40 Robux, aby kwalifikować się do cashbacku."
+  },
+  "gamepassBuyBtn": {
+    "message": "Kup (Zdobądź $1)"
+  },
+  "tooltipGamepassMinPriceShort": {
+    "message": "Cena gamepassu musi być wyższa niż 40 Robux, aby kwalifikować się do cashbacku."
+  },
+  "earnAmount": {
+    "message": "(Zdobądź $1)"
+  },
+  "errorDiscordSupport": {
+    "message": "Błąd $1: Dołącz do naszego Discorda: <a href=\"https://discord.gg/roearnsupport\" target=\"_blank\">discord.gg/roearnsupport</a>"
+  },
+  "roEarnBalance": {
+    "message": "Saldo RoEarn: $1 Robux"
+  },
+  "roEarnBalanceLoading": {
+    "message": "Saldo RoEarn: Ładowanie..."
+  },
+  "reviewPromptText": {
+    "message": "RoEarn zadziałał? Zostaw recenzję!"
+  },
+  "checkoutPageTitle": {
+    "message": "Kasa RoEarn"
+  },
+  "checkoutTitle": {
+    "message": "Dokończ Zakup"
+  },
+  "checkoutSubtitle": {
+    "message": "Otrzymaj cashback za zakup na Roblox"
+  },
+  "checkoutSaveBadge": {
+    "message": "Zaoszczędź $1 Robux!"
+  },
+  "checkoutHowItWorks": {
+    "message": "Jak To Działa"
+  },
+  "checkoutStep1": {
+    "message": "Dołącz do hubu RoEarn używając przycisku graj poniżej."
+  },
+  "checkoutStep2": {
+    "message": "Zostaniesz poproszony o zakup $1 w grze."
+  },
+  "checkoutStep3": {
+    "message": "Twój cashback $1 zostanie natychmiast dodany do Twojego salda RoEarn."
+  },
+  "checkoutAutoJoin": {
+    "message": "Zawsze automatycznie dołączaj do hubu RoEarn"
+  },
+  "dashboardPageTitle": {
+    "message": "Panel RoEarn"
+  },
+  "dashboardTitle": {
+    "message": "Panel RoEarn"
+  },
+  "dashboardSubtitle": {
+    "message": "Zarządzaj swoimi zarobkami i zaproszeniami"
+  },
+  "welcomeTitle": {
+    "message": "Witaj w RoEarn"
+  },
+  "welcomeSubtitle": {
+    "message": "Krótki film instruktażowy na początek"
+  },
+  "referralEntryTitle": {
+    "message": "Ktoś Cię zaprosił do RoEarn?"
+  },
+  "referralEntryDescription": {
+    "message": "Wpisz ich kod i oboje otrzymacie dodatkowy cashback!"
+  },
+  "referralInputPlaceholder": {
+    "message": "Wpisz kod zaproszenia"
+  },
+  "optionalLabel": {
+    "message": "(OPCJONALNE)"
+  },
+  "startButton": {
+    "message": "Zacznij używać RoEarn"
+  },
+  "loadingText": {
+    "message": "Ładowanie..."
+  },
+  "errorInvalidReferralCode": {
+    "message": "Nieprawidłowy kod zaproszenia"
+  },
+  "errorOwnReferralCode": {
+    "message": "Nie możesz użyć własnego kodu zaproszenia"
+  },
+  "errorSetReferralFailed": {
+    "message": "Nie udało się ustawić zaproszenia. "
+  },
+  "errorReferralAlreadyUsed": {
+    "message": "Już użyłeś kodu zaproszenia."
+  },
+  "errorInvalidReferralCodeRetry": {
+    "message": "Nieprawidłowy kod. Sprawdź i spróbuj ponownie."
+  },
+  "errorVerificationFailed": {
+    "message": "Weryfikacja nie powiodła się. Spróbuj ponownie."
+  },
+  "errorPleaseTryAgain": {
+    "message": "Spróbuj ponownie."
+  },
+  "bonusAddedText": {
+    "message": "5 Robux zostało dodane do Twojego salda RoEarn!"
+  },
+  "yourBalanceLabel": {
+    "message": "Twoje Saldo RoEarn"
+  },
+  "withdrawButton": {
+    "message": "Wypłać do Roblox"
+  },
+  "errorMinWithdrawal": {
+    "message": "Minimalna kwota wypłaty wynosi 4 Robux."
+  },
+  "withdrawalSuccessTitle": {
+    "message": "Wypłata Udana"
+  },
+  "withdrawalSuccessMessage": {
+    "message": "Sprawdź swoje <b><u>Oczekujące Robux</u></b> i <b><u>Sprzedaż towarów</u></b> za około 45 sekund, ponieważ zakup może chwilę potrwać, zanim się pojawi."
+  },
+  "viewTransactionsCountdown": {
+    "message": "Zobacz Transakcje ($1)"
+  },
+  "viewTransactionsButton": {
+    "message": "Zobacz Transakcje"
+  },
+  "referralProgramTitle": {
+    "message": "Zaproś Znajomych"
+  },
+  "yourReferralCodeLabel": {
+    "message": "Twój Kod Zaproszenia"
+  },
+  "copyButton": {
+    "message": "Kopiuj"
+  },
+  "copiedButton": {
+    "message": "Skopiowano!"
+  },
+  "totalEarnedLabel": {
+    "message": "Łącznie Zarobione"
+  },
+  "referralsLabel": {
+    "message": "Zaproszenia"
+  },
+  "referralDescription": {
+    "message": "<span class=\"roearn-referral-highlight\">Udostępnij swój kod zaproszenia. </span>Gdy ktoś zainstaluje RoEarn używając Twojego kodu, zarobisz <b>natychmiast 15 Robux!</b><br><br>Każdy, kto użyje Twojego kodu zaproszenia, otrzyma <b>5 Robux!</b><br><br><b>⚠️ Zastrzeżenie:</b> Konta alternatywne nie otrzymają nagrody 15 Robux."
+  },
+  "backButton": {
+    "message": "← Wstecz"
+  },
+  "yourReferralsTitle": {
+    "message": "Twoje Zaproszenia"
+  },
+  "noReferralsMessage": {
+    "message": "Brak zaproszeń. Podziel się kodem, aby zacząć zarabiać!"
+  },
+  "loadingReferralProfiles": {
+    "message": "Ładowanie zaproszonych profili..."
+  },
+  "errorAuthFailed": {
+    "message": "Uwierzytelnianie nie powiodło się. Upewnij się, że jesteś zalogowany do Roblox."
+  },
+  "errorAuthRetry": {
+    "message": "Uwierzytelnianie nie powiodło się. Spróbuj ponownie."
+  },
+  "errorFetchGames": {
+    "message": "Nie udało się pobrać gier. Upewnij się, że masz co najmniej jedną grę."
+  },
+  "errorFetchGamesRetry": {
+    "message": "Nie udało się pobrać gier. Spróbuj ponownie."
+  },
+  "errorNoGames": {
+    "message": "Musisz najpierw stworzyć grę Roblox, zanim użyjesz kodu polecającego."
+  },
+  "errorSecurityToken": {
+    "message": "Nie udało się uzyskać tokenu bezpieczeństwa. Odśwież stronę i spróbuj ponownie."
+  },
+  "errorCreateGamepass": {
+    "message": "Nie udało się utworzyć gamepassu weryfikacyjnego. Spróbuj ponownie."
+  },
+  "errorUpdateGamepass": {
+    "message": "Nie udało się zaktualizować szczegółów gamepassu. Spróbuj ponownie."
+  },
+  "errorFetchGamepasses": {
+    "message": "Nie udało się pobrać gamepassów. Spróbuj ponownie."
+  },
+  "errorNoGamepasses": {
+    "message": "Brak gamepassów do weryfikacji. Spróbuj ponownie."
+  },
+  "errorUpdateVerification": {
+    "message": "Nie udało się zaktualizować gamepassu do weryfikacji. Spróbuj ponownie."
+  },
+  "errorUnexpected": {
+    "message": "Wystąpił błąd. Spróbuj ponownie."
+  },
+  "cartTitle": {
+    "message": "Koszyk ($1)"
+  },
+  "cartEmpty": {
+    "message": "Twój koszyk jest pusty"
+  },
+  "cartRemove": {
+    "message": "Usuń"
+  },
+  "cartTotal": {
+    "message": "Razem: $1 przedmiot"
+  },
+  "cartTotalPlural": {
+    "message": "Razem: $1 przedmiotów"
+  },
+  "checkoutBulkStep2": {
+    "message": "Zostaniesz poproszony o zakup swoich przedmiotów w grze."
+  },
+  "checkoutBulkStep2Single": {
+    "message": "Zostaniesz poproszony o zakup przedmiotu w grze."
+  },
+  "cartTotalLabel": {
+    "message": "Razem"
+  },
+  "addToCart": {
+    "message": "Dodaj do Koszyka RoEarn"
+  },
+  "removeFromCart": {
+    "message": "Usuń z Koszyka RoEarn"
+  },
+  "somethingWentWrong": {
+    "message": "Coś poszło nie tak. Spróbuj ponownie za kilka minut."
+  },
+  "copyExtensionLink": {
+    "message": "Kopiuj link rozszerzenia"
+  },
+  "altDetectedText": {
+    "message": "⚠️ Wykryto Alt"
+  },
+  "pendingRobuxNotice": {
+    "message": "Masz X Robux oczekujących. Sprawdź ponownie za 2 minut."
+  },
+  "tooltipOffSale": {
+    "message": "Ten przedmiot nie kwalifikuje się do cashbacku, ponieważ oryginał jest obecnie niedostępny do zakupu."
+  },
+  "contentCreatorTitle": {
+    "message": "Twórz Shorts i Zarabiaj Robux"
+  },
+  "contentCreatorPayout": {
+    "message": "Zarabiaj 100 Robux za 1000 wyświetleń na YouTube & TikTok"
+  },
+  "contentCreatorDescription": {
+    "message": "Film musi być krótkim materiałem wysokiej jakości, który wyraźnie prezentuje rozszerzenie RoEarn i jego funkcje. Zaleca się publikację filmu na TikTok i YouTube."
+  },
+  "contentCreatorContact": {
+    "message": "Skontaktuj się z creators@roearn.io aby odebrać swoje Robux"
+  },
+  "contentCreatorLink": {
+    "message": "🔗 Upewnij się, że uwzględniłeś \"roearn.io\" w swoim filmie!"
+  }
+}

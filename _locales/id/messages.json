@@ -1,0 +1,311 @@
+{
+  "extName": {
+    "message": "RoEarn: Cashback untuk Pembelian Roblox"
+  },
+  "extDescription": {
+    "message": "Dapatkan Robux cashback di setiap pembelian di Roblox!"
+  },
+  "extActionTitle": {
+    "message": "Buka Dasbor RoEarn"
+  },
+  "badgeEarn": {
+    "message": "Dapat"
+  },
+  "buy": {
+    "message": "Beli"
+  },
+  "ineligible": {
+    "message": "Tidak Memenuhi Syarat"
+  },
+  "successPopupTitle": {
+    "message": "Pembelian Selesai"
+  },
+  "successPopupMessage": {
+    "message": "Anda berhasil memperoleh $1 seharga $2."
+  },
+  "successPopupCashback": {
+    "message": "$1 telah ditambahkan ke saldo RoEarn Anda."
+  },
+  "successPopupBalanceBtn": {
+    "message": "Saldo"
+  },
+  "successPopupCustomizeBtn": {
+    "message": "Kustomisasi"
+  },
+  "successPopupContinueBtn": {
+    "message": "Lanjutkan"
+  },
+  "notEligibleForCashback": {
+    "message": "Tidak Memenuhi Syarat Cashback"
+  },
+  "tooltipRobloxLimited": {
+    "message": "Limited buatan Roblox tidak memenuhi syarat cashback."
+  },
+  "tooltipNotInGame": {
+    "message": "Item ini tidak memenuhi syarat karena tidak dapat dibeli dalam game."
+  },
+  "tooltipPriceTooLow": {
+    "message": "Harga item terlalu rendah untuk cashback. Harga minimum adalah $1 Robux."
+  },
+  "catalogBuyBtn": {
+    "message": "Beli dengan RoEarn (Dapat $1)"
+  },
+  "tooltipGamepassMinPrice": {
+    "message": "Harga gamepass harus lebih dari 40 Robux agar memenuhi syarat cashback."
+  },
+  "gamepassBuyBtn": {
+    "message": "Beli (Dapat $1)"
+  },
+  "tooltipGamepassMinPriceShort": {
+    "message": "Harga gamepass harus lebih dari 40 Robux agar memenuhi syarat cashback."
+  },
+  "earnAmount": {
+    "message": "(Dapat $1)"
+  },
+  "errorDiscordSupport": {
+    "message": "Error $1: Bergabunglah dengan server Discord kami: <a href=\"https://discord.gg/roearnsupport\" target=\"_blank\">discord.gg/roearnsupport</a>"
+  },
+  "roEarnBalance": {
+    "message": "Saldo RoEarn: $1 Robux"
+  },
+  "roEarnBalanceLoading": {
+    "message": "Saldo RoEarn: Memuat..."
+  },
+  "reviewPromptText": {
+    "message": "Apakah RoEarn berfungsi? Berikan ulasan!"
+  },
+  "checkoutPageTitle": {
+    "message": "Checkout RoEarn"
+  },
+  "checkoutTitle": {
+    "message": "Selesaikan Pembelian"
+  },
+  "checkoutSubtitle": {
+    "message": "Dapatkan cashback untuk pembelian Roblox Anda"
+  },
+  "checkoutSaveBadge": {
+    "message": "Hemat $1 Robux!"
+  },
+  "checkoutHowItWorks": {
+    "message": "Cara Kerja"
+  },
+  "checkoutStep1": {
+    "message": "Bergabunglah dengan hub RoEarn menggunakan tombol putar di bawah."
+  },
+  "checkoutStep2": {
+    "message": "Anda akan diminta membeli $1 di dalam game."
+  },
+  "checkoutStep3": {
+    "message": "Cashback $1 akan langsung dikreditkan ke saldo RoEarn untuk penarikan."
+  },
+  "checkoutAutoJoin": {
+    "message": "Selalu bergabung hub RoEarn secara otomatis"
+  },
+  "dashboardPageTitle": {
+    "message": "Dasbor RoEarn"
+  },
+  "dashboardTitle": {
+    "message": "Dasbor RoEarn"
+  },
+  "dashboardSubtitle": {
+    "message": "Kelola penghasilan dan undangan Anda"
+  },
+  "welcomeTitle": {
+    "message": "Selamat Datang di RoEarn"
+  },
+  "welcomeSubtitle": {
+    "message": "Video tutorial singkat untuk membantu Anda memulai"
+  },
+  "referralEntryTitle": {
+    "message": "Apakah seseorang mengundang Anda ke RoEarn?"
+  },
+  "referralEntryDescription": {
+    "message": "Masukkan kode mereka dan Anda berdua akan mendapat cashback ekstra!"
+  },
+  "referralInputPlaceholder": {
+    "message": "Masukkan kode undangan"
+  },
+  "optionalLabel": {
+    "message": "(OPSIONAL)"
+  },
+  "startButton": {
+    "message": "Mulai gunakan RoEarn"
+  },
+  "loadingText": {
+    "message": "Memuat..."
+  },
+  "errorInvalidReferralCode": {
+    "message": "Kode undangan tidak valid"
+  },
+  "errorOwnReferralCode": {
+    "message": "Anda tidak dapat menggunakan kode undangan sendiri"
+  },
+  "errorSetReferralFailed": {
+    "message": "Gagal mengatur undangan. "
+  },
+  "errorReferralAlreadyUsed": {
+    "message": "Anda sudah menggunakan kode undangan."
+  },
+  "errorInvalidReferralCodeRetry": {
+    "message": "Kode tidak valid. Periksa dan coba lagi."
+  },
+  "errorVerificationFailed": {
+    "message": "Verifikasi gagal. Coba lagi."
+  },
+  "errorPleaseTryAgain": {
+    "message": "Coba lagi."
+  },
+  "bonusAddedText": {
+    "message": "5 Robux telah ditambahkan ke saldo RoEarn Anda!"
+  },
+  "yourBalanceLabel": {
+    "message": "Saldo RoEarn Anda"
+  },
+  "withdrawButton": {
+    "message": "Tarik ke Roblox"
+  },
+  "errorMinWithdrawal": {
+    "message": "Jumlah penarikan minimum adalah 4 Robux."
+  },
+  "withdrawalSuccessTitle": {
+    "message": "Penarikan Berhasil"
+  },
+  "withdrawalSuccessMessage": {
+    "message": "Silakan periksa <b><u>Robux Tertunda</u></b> dan <b><u>Penjualan Barang</u></b> Anda dalam sekitar 45 detik, karena pembelian mungkin memerlukan waktu untuk muncul."
+  },
+  "viewTransactionsCountdown": {
+    "message": "Lihat Transaksi ($1)"
+  },
+  "viewTransactionsButton": {
+    "message": "Lihat Transaksi"
+  },
+  "referralProgramTitle": {
+    "message": "Undang Temanmu"
+  },
+  "yourReferralCodeLabel": {
+    "message": "Kode Undangan Anda"
+  },
+  "copyButton": {
+    "message": "Salin"
+  },
+  "copiedButton": {
+    "message": "Tersalin!"
+  },
+  "totalEarnedLabel": {
+    "message": "Total Diperoleh"
+  },
+  "referralsLabel": {
+    "message": "Undangan"
+  },
+  "referralDescription": {
+    "message": "<span class=\"roearn-referral-highlight\">Bagikan kode undangan Anda. </span>Ketika seseorang menginstal RoEarn menggunakan kode Anda, Anda mendapatkan <b>15 Robux secara instan!</b><br><br>Siapa pun yang menggunakan kode undangan Anda akan mendapatkan <b>5 Robux!</b><br><br><b>⚠️ Penafian:</b> Akun alternatif tidak akan menerima hadiah 15 Robux."
+  },
+  "backButton": {
+    "message": "← Kembali"
+  },
+  "yourReferralsTitle": {
+    "message": "Undangan Anda"
+  },
+  "noReferralsMessage": {
+    "message": "Belum ada undangan. Bagikan kode untuk mulai menghasilkan!"
+  },
+  "loadingReferralProfiles": {
+    "message": "Memuat profil yang diundang..."
+  },
+  "errorAuthFailed": {
+    "message": "Gagal autentikasi. Pastikan Anda login ke Roblox."
+  },
+  "errorAuthRetry": {
+    "message": "Gagal autentikasi. Coba lagi."
+  },
+  "errorFetchGames": {
+    "message": "Gagal mengambil game. Pastikan Anda memiliki minimal satu game."
+  },
+  "errorFetchGamesRetry": {
+    "message": "Gagal mengambil game. Coba lagi."
+  },
+  "errorNoGames": {
+    "message": "Anda perlu membuat game Roblox terlebih dahulu sebelum menggunakan kode referral."
+  },
+  "errorSecurityToken": {
+    "message": "Gagal mendapat token keamanan. Refresh halaman dan coba lagi."
+  },
+  "errorCreateGamepass": {
+    "message": "Gagal membuat gamepass verifikasi. Coba lagi."
+  },
+  "errorUpdateGamepass": {
+    "message": "Gagal memperbarui detail gamepass. Coba lagi."
+  },
+  "errorFetchGamepasses": {
+    "message": "Gagal mengambil gamepass. Coba lagi."
+  },
+  "errorNoGamepasses": {
+    "message": "Tidak ada gamepass untuk verifikasi. Coba lagi."
+  },
+  "errorUpdateVerification": {
+    "message": "Gagal memperbarui gamepass untuk verifikasi. Coba lagi."
+  },
+  "errorUnexpected": {
+    "message": "Terjadi kesalahan. Coba lagi."
+  },
+  "cartTitle": {
+    "message": "Keranjang Belanja ($1)"
+  },
+  "cartEmpty": {
+    "message": "Keranjang Anda kosong"
+  },
+  "cartRemove": {
+    "message": "Hapus"
+  },
+  "cartTotal": {
+    "message": "Total: $1 item"
+  },
+  "cartTotalPlural": {
+    "message": "Total: $1 item"
+  },
+  "checkoutBulkStep2": {
+    "message": "Anda akan diminta untuk membeli item Anda di dalam game."
+  },
+  "checkoutBulkStep2Single": {
+    "message": "Anda akan diminta untuk membeli item Anda di dalam game."
+  },
+  "cartTotalLabel": {
+    "message": "Total"
+  },
+  "addToCart": {
+    "message": "Tambah ke Keranjang RoEarn"
+  },
+  "removeFromCart": {
+    "message": "Hapus dari Keranjang RoEarn"
+  },
+  "somethingWentWrong": {
+    "message": "Terjadi kesalahan. Silakan coba lagi dalam beberapa menit."
+  },
+  "copyExtensionLink": {
+    "message": "Salin Tautan Ekstensi"
+  },
+  "altDetectedText": {
+    "message": "⚠️ Akun Mencurigakan"
+  },
+  "pendingRobuxNotice": {
+    "message": "Anda memiliki X Robux tertunda. Periksa kembali dalam 2 menit."
+  },
+  "tooltipOffSale": {
+    "message": "Item ini tidak memenuhi syarat untuk cashback karena aslinya saat ini tidak tersedia untuk dibeli."
+  },
+  "contentCreatorTitle": {
+    "message": "Buat Shorts & Dapatkan Robux"
+  },
+  "contentCreatorPayout": {
+    "message": "Dapatkan 100 Robux per 1.000 tayangan di YouTube & TikTok"
+  },
+  "contentCreatorDescription": {
+    "message": "Video harus berupa video pendek berkualitas yang dengan jelas menampilkan ekstensi RoEarn dan fitur-fiturnya. Disarankan untuk memposting video di TikTok dan YouTube."
+  },
+  "contentCreatorContact": {
+    "message": "Hubungi creators@roearn.io untuk klaim Robux Anda"
+  },
+  "contentCreatorLink": {
+    "message": "🔗 Pastikan untuk menyertakan \"roearn.io\" di video Anda!"
+  }
+}

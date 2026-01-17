@@ -1,0 +1,311 @@
+{
+  "extName": {
+    "message": "RoEarn: استرداد نقدي على مشتريات Roblox"
+  },
+  "extDescription": {
+    "message": "احصل على استرداد Robux على كل عملية شراء على Roblox!"
+  },
+  "extActionTitle": {
+    "message": "فتح لوحة تحكم RoEarn"
+  },
+  "badgeEarn": {
+    "message": "اربح"
+  },
+  "buy": {
+    "message": "شراء"
+  },
+  "ineligible": {
+    "message": "غير مؤهل"
+  },
+  "successPopupTitle": {
+    "message": "اكتملت عملية الشراء"
+  },
+  "successPopupMessage": {
+    "message": "لقد حصلت بنجاح على $1 مقابل $2."
+  },
+  "successPopupCashback": {
+    "message": "تمت إضافة $1 إلى رصيد RoEarn الخاص بك."
+  },
+  "successPopupBalanceBtn": {
+    "message": "الرصيد"
+  },
+  "successPopupCustomizeBtn": {
+    "message": "تخصيص"
+  },
+  "successPopupContinueBtn": {
+    "message": "متابعة"
+  },
+  "notEligibleForCashback": {
+    "message": "غير مؤهل للاسترداد النقدي"
+  },
+  "tooltipRobloxLimited": {
+    "message": "العناصر المحدودة التي أنشأتها Roblox غير مؤهلة للاسترداد النقدي."
+  },
+  "tooltipNotInGame": {
+    "message": "هذا العنصر غير مؤهل لأنه لا يمكن شراؤه داخل اللعبة."
+  },
+  "tooltipPriceTooLow": {
+    "message": "السعر منخفض جداً للاسترداد النقدي. الحد الأدنى للسعر هو $1 Robux."
+  },
+  "catalogBuyBtn": {
+    "message": "شراء مع RoEarn (اربح $1)"
+  },
+  "tooltipGamepassMinPrice": {
+    "message": "يجب أن يكون سعر تصريح اللعبة أعلى من 40 Robux للتأهل للاسترداد النقدي."
+  },
+  "gamepassBuyBtn": {
+    "message": "شراء (اربح $1)"
+  },
+  "tooltipGamepassMinPriceShort": {
+    "message": "يجب أن يكون سعر تصريح اللعبة أعلى من 40 Robux للتأهل للاسترداد النقدي."
+  },
+  "earnAmount": {
+    "message": "(اربح $1)"
+  },
+  "errorDiscordSupport": {
+    "message": "خطأ $1: انضم إلى Discord الخاص بنا: <a href=\"https://discord.gg/roearnsupport\" target=\"_blank\">discord.gg/roearnsupport</a>"
+  },
+  "roEarnBalance": {
+    "message": "رصيد RoEarn: $1 Robux"
+  },
+  "roEarnBalanceLoading": {
+    "message": "رصيد RoEarn: جاري التحميل..."
+  },
+  "reviewPromptText": {
+    "message": "هل نجح RoEarn معك؟ اترك تقييماً!"
+  },
+  "checkoutPageTitle": {
+    "message": "الدفع RoEarn"
+  },
+  "checkoutTitle": {
+    "message": "أكمل عملية الشراء"
+  },
+  "checkoutSubtitle": {
+    "message": "احصل على استرداد نقدي على مشترياتك من Roblox"
+  },
+  "checkoutSaveBadge": {
+    "message": "وفر $1 Robux!"
+  },
+  "checkoutHowItWorks": {
+    "message": "كيف يعمل"
+  },
+  "checkoutStep1": {
+    "message": "انضم إلى مركز RoEarn باستخدام زر التشغيل أدناه."
+  },
+  "checkoutStep2": {
+    "message": "سيُطلب منك شراء $1 داخل اللعبة."
+  },
+  "checkoutStep3": {
+    "message": "سيتم إضافة استرداد $1 النقدي فوراً إلى رصيد RoEarn الخاص بك."
+  },
+  "checkoutAutoJoin": {
+    "message": "الانضمام دائماً إلى مركز RoEarn تلقائياً"
+  },
+  "dashboardPageTitle": {
+    "message": "لوحة تحكم RoEarn"
+  },
+  "dashboardTitle": {
+    "message": "لوحة تحكم RoEarn"
+  },
+  "dashboardSubtitle": {
+    "message": "إدارة أرباحك ودعواتك"
+  },
+  "welcomeTitle": {
+    "message": "مرحباً بك في RoEarn"
+  },
+  "welcomeSubtitle": {
+    "message": "فيديو تعليمي سريع لمساعدتك على البدء"
+  },
+  "referralEntryTitle": {
+    "message": "هل دعاك شخص ما إلى RoEarn؟"
+  },
+  "referralEntryDescription": {
+    "message": "أدخل رمزهم وستحصلان كلاكما على استرداد نقدي إضافي!"
+  },
+  "referralInputPlaceholder": {
+    "message": "أدخل رمز الدعوة"
+  },
+  "optionalLabel": {
+    "message": "(اختياري)"
+  },
+  "startButton": {
+    "message": "ابدأ باستخدام RoEarn"
+  },
+  "loadingText": {
+    "message": "جاري التحميل..."
+  },
+  "errorInvalidReferralCode": {
+    "message": "رمز دعوة غير صالح"
+  },
+  "errorOwnReferralCode": {
+    "message": "لا يمكنك استخدام رمز الدعوة الخاص بك"
+  },
+  "errorSetReferralFailed": {
+    "message": "فشل في تعيين الدعوة. "
+  },
+  "errorReferralAlreadyUsed": {
+    "message": "لقد استخدمت رمز دعوة بالفعل."
+  },
+  "errorInvalidReferralCodeRetry": {
+    "message": "رمز غير صالح. تحقق وحاول مرة أخرى."
+  },
+  "errorVerificationFailed": {
+    "message": "فشل التحقق. حاول مرة أخرى."
+  },
+  "errorPleaseTryAgain": {
+    "message": "حاول مرة أخرى."
+  },
+  "bonusAddedText": {
+    "message": "تمت إضافة 5 Robux إلى رصيد RoEarn الخاص بك!"
+  },
+  "yourBalanceLabel": {
+    "message": "رصيد RoEarn الخاص بك"
+  },
+  "withdrawButton": {
+    "message": "سحب إلى Roblox"
+  },
+  "errorMinWithdrawal": {
+    "message": "الحد الأدنى لمبلغ السحب هو 4 روبوكس."
+  },
+  "withdrawalSuccessTitle": {
+    "message": "تم السحب بنجاح"
+  },
+  "withdrawalSuccessMessage": {
+    "message": "يرجى التحقق من <b><u>Robux المعلقة</u></b> و<b><u>بيع السلع</u></b> بعد حوالي 45 ثانية، حيث قد يستغرق الشراء لحظة للظهور."
+  },
+  "viewTransactionsCountdown": {
+    "message": "عرض المعاملات ($1)"
+  },
+  "viewTransactionsButton": {
+    "message": "عرض المعاملات"
+  },
+  "referralProgramTitle": {
+    "message": "ادعُ أصدقاءك"
+  },
+  "yourReferralCodeLabel": {
+    "message": "رمز الدعوة الخاص بك"
+  },
+  "copyButton": {
+    "message": "نسخ"
+  },
+  "copiedButton": {
+    "message": "تم النسخ!"
+  },
+  "totalEarnedLabel": {
+    "message": "إجمالي الأرباح"
+  },
+  "referralsLabel": {
+    "message": "الدعوات"
+  },
+  "referralDescription": {
+    "message": "<span class=\"roearn-referral-highlight\">شارك رمز الدعوة الخاص بك. </span>عندما يقوم شخص ما بتثبيت RoEarn باستخدام الرمز الخاص بك، ستحصل على <b>15 روبوكس على الفور!</b><br><br>أي شخص يستخدم رمز الدعوة الخاص بك سيحصل على <b>5 روبوكس!</b><br><br><b>⚠️ إخلاء المسؤولية:</b> لن تحصل الحسابات البديلة على مكافأة 15 روبوكس."
+  },
+  "backButton": {
+    "message": "← رجوع"
+  },
+  "yourReferralsTitle": {
+    "message": "دعواتك"
+  },
+  "noReferralsMessage": {
+    "message": "لا توجد دعوات بعد. شارك رمزك لبدء الربح!"
+  },
+  "loadingReferralProfiles": {
+    "message": "جاري تحميل ملفات المدعوين..."
+  },
+  "errorAuthFailed": {
+    "message": "فشل المصادقة. تأكد من تسجيل الدخول إلى Roblox."
+  },
+  "errorAuthRetry": {
+    "message": "فشل المصادقة. حاول مرة أخرى."
+  },
+  "errorFetchGames": {
+    "message": "فشل في جلب ألعابك. تأكد من أن لديك لعبة واحدة على الأقل."
+  },
+  "errorFetchGamesRetry": {
+    "message": "فشل في جلب ألعابك. حاول مرة أخرى."
+  },
+  "errorNoGames": {
+    "message": "تحتاج إلى إنشاء لعبة Roblox أولاً قبل استخدام رمز الإحالة."
+  },
+  "errorSecurityToken": {
+    "message": "فشل في الحصول على رمز الأمان. قم بتحديث الصفحة وحاول مرة أخرى."
+  },
+  "errorCreateGamepass": {
+    "message": "فشل في إنشاء تصريح لعبة التحقق. حاول مرة أخرى."
+  },
+  "errorUpdateGamepass": {
+    "message": "فشل في تحديث تفاصيل تصريح اللعبة. حاول مرة أخرى."
+  },
+  "errorFetchGamepasses": {
+    "message": "فشل في جلب تصاريح اللعبة. حاول مرة أخرى."
+  },
+  "errorNoGamepasses": {
+    "message": "لا تتوفر تصاريح لعبة للتحقق. حاول مرة أخرى."
+  },
+  "errorUpdateVerification": {
+    "message": "فشل في تحديث تصريح اللعبة للتحقق. حاول مرة أخرى."
+  },
+  "errorUnexpected": {
+    "message": "حدث خطأ. حاول مرة أخرى."
+  },
+  "cartTitle": {
+    "message": "عربة التسوق ($1)"
+  },
+  "cartEmpty": {
+    "message": "عربة التسوق فارغة"
+  },
+  "cartRemove": {
+    "message": "إزالة"
+  },
+  "cartTotal": {
+    "message": "المجموع: $1 عنصر"
+  },
+  "cartTotalPlural": {
+    "message": "المجموع: $1 عناصر"
+  },
+  "checkoutBulkStep2": {
+    "message": "سيُطلب منك شراء العناصر الخاصة بك داخل اللعبة."
+  },
+  "checkoutBulkStep2Single": {
+    "message": "سيُطلب منك شراء العنصر الخاص بك داخل اللعبة."
+  },
+  "cartTotalLabel": {
+    "message": "المجموع"
+  },
+  "addToCart": {
+    "message": "أضف إلى سلة RoEarn"
+  },
+  "removeFromCart": {
+    "message": "إزالة من سلة RoEarn"
+  },
+  "somethingWentWrong": {
+    "message": "حدث خطأ ما. يرجى المحاولة مرة أخرى خلال بضع دقائق."
+  },
+  "copyExtensionLink": {
+    "message": "نسخ رابط الإضافة"
+  },
+  "altDetectedText": {
+    "message": "⚠️ حساب مشبوه"
+  },
+  "pendingRobuxNotice": {
+    "message": "لديك X Robux قيد الانتظار. عد للتحقق بعد 2 دقائق."
+  },
+  "tooltipOffSale": {
+    "message": "هذا العنصر غير مؤهل لاسترداد النقود لأن الأصل غير متاح حاليًا للشراء."
+  },
+  "contentCreatorTitle": {
+    "message": "أنشئ Shorts واربح Robux"
+  },
+  "contentCreatorPayout": {
+    "message": "احصل على 100 Robux لكل 1,000 مشاهدة على YouTube و TikTok"
+  },
+  "contentCreatorDescription": {
+    "message": "يجب أن يكون الفيديو عبارة عن فيديو قصير عالي الجودة يعرض بوضوح امتداد RoEarn وميزاته. يوصى بنشر الفيديو على TikTok وYouTube."
+  },
+  "contentCreatorContact": {
+    "message": "اتصل بـ creators@roearn.io للمطالبة بـ Robux الخاصة بك"
+  },
+  "contentCreatorLink": {
+    "message": "🔗 تأكد من تضمين \"roearn.io\" في الفيديو الخاص بك!"
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "extName": {
+    "message": "RoEarn: Hoàn tiền cho mua hàng Roblox"
+  },
+  "extDescription": {
+    "message": "Nhận Robux hoàn tiền cho mọi giao dịch mua trên Roblox!"
+  },
+  "extActionTitle": {
+    "message": "Mở Bảng Điều Khiển RoEarn"
+  },
+  "badgeEarn": {
+    "message": "Nhận"
+  },
+  "buy": {
+    "message": "Mua"
+  },
+  "ineligible": {
+    "message": "Không đủ điều kiện"
+  },
+  "successPopupTitle": {
+    "message": "Mua Hàng Hoàn Tất"
+  },
+  "successPopupMessage": {
+    "message": "Bạn đã mua thành công $1 với giá $2."
+  },
+  "successPopupCashback": {
+    "message": "$1 đã được thêm vào số dư RoEarn của bạn."
+  },
+  "successPopupBalanceBtn": {
+    "message": "Số Dư"
+  },
+  "successPopupCustomizeBtn": {
+    "message": "Tùy Chỉnh"
+  },
+  "successPopupContinueBtn": {
+    "message": "Tiếp Tục"
+  },
+  "notEligibleForCashback": {
+    "message": "Không Đủ Điều Kiện Hoàn Tiền"
+  },
+  "tooltipRobloxLimited": {
+    "message": "Limited do Roblox tạo không đủ điều kiện hoàn tiền."
+  },
+  "tooltipNotInGame": {
+    "message": "Vật phẩm này không đủ điều kiện vì không thể mua trong game."
+  },
+  "tooltipPriceTooLow": {
+    "message": "Giá quá thấp để hoàn tiền. Giá tối thiểu là $1 Robux."
+  },
+  "catalogBuyBtn": {
+    "message": "Mua với RoEarn (Nhận $1)"
+  },
+  "tooltipGamepassMinPrice": {
+    "message": "Giá gamepass phải cao hơn 40 Robux để đủ điều kiện nhận hoàn tiền."
+  },
+  "gamepassBuyBtn": {
+    "message": "Mua (Nhận $1)"
+  },
+  "tooltipGamepassMinPriceShort": {
+    "message": "Giá gamepass phải cao hơn 40 Robux để đủ điều kiện nhận hoàn tiền."
+  },
+  "earnAmount": {
+    "message": "(Nhận $1)"
+  },
+  "errorDiscordSupport": {
+    "message": "Lỗi $1: Tham gia Discord của chúng tôi: <a href=\"https://discord.gg/roearnsupport\" target=\"_blank\">discord.gg/roearnsupport</a>"
+  },
+  "roEarnBalance": {
+    "message": "Số Dư RoEarn: $1 Robux"
+  },
+  "roEarnBalanceLoading": {
+    "message": "Số Dư RoEarn: Đang tải..."
+  },
+  "reviewPromptText": {
+    "message": "RoEarn hoạt động tốt? Để lại đánh giá!"
+  },
+  "checkoutPageTitle": {
+    "message": "Thanh Toán RoEarn"
+  },
+  "checkoutTitle": {
+    "message": "Hoàn Tất Mua Hàng"
+  },
+  "checkoutSubtitle": {
+    "message": "Nhận hoàn tiền cho giao dịch Roblox của bạn"
+  },
+  "checkoutSaveBadge": {
+    "message": "Tiết Kiệm $1 Robux!"
+  },
+  "checkoutHowItWorks": {
+    "message": "Cách Hoạt Động"
+  },
+  "checkoutStep1": {
+    "message": "Tham gia hub RoEarn bằng nút chơi bên dưới."
+  },
+  "checkoutStep2": {
+    "message": "Bạn sẽ được yêu cầu mua $1 trong game."
+  },
+  "checkoutStep3": {
+    "message": "Hoàn tiền $1 của bạn sẽ được ghi có ngay lập tức vào số dư RoEarn."
+  },
+  "checkoutAutoJoin": {
+    "message": "Luôn tự động tham gia hub RoEarn"
+  },
+  "dashboardPageTitle": {
+    "message": "Bảng Điều Khiển RoEarn"
+  },
+  "dashboardTitle": {
+    "message": "Bảng Điều Khiển RoEarn"
+  },
+  "dashboardSubtitle": {
+    "message": "Quản lý thu nhập và lời mời của bạn"
+  },
+  "welcomeTitle": {
+    "message": "Chào Mừng Đến RoEarn"
+  },
+  "welcomeSubtitle": {
+    "message": "Video hướng dẫn nhanh để bắt đầu"
+  },
+  "referralEntryTitle": {
+    "message": "Ai đó đã mời bạn đến RoEarn?"
+  },
+  "referralEntryDescription": {
+    "message": "Nhập mã của họ và cả hai sẽ nhận được hoàn tiền thêm!"
+  },
+  "referralInputPlaceholder": {
+    "message": "Nhập mã mời"
+  },
+  "optionalLabel": {
+    "message": "(TÙY CHỌN)"
+  },
+  "startButton": {
+    "message": "Bắt đầu sử dụng RoEarn"
+  },
+  "loadingText": {
+    "message": "Đang tải..."
+  },
+  "errorInvalidReferralCode": {
+    "message": "Mã mời không hợp lệ"
+  },
+  "errorOwnReferralCode": {
+    "message": "Bạn không thể sử dụng mã mời của chính mình"
+  },
+  "errorSetReferralFailed": {
+    "message": "Không thể đặt lời mời. "
+  },
+  "errorReferralAlreadyUsed": {
+    "message": "Bạn đã sử dụng mã mời."
+  },
+  "errorInvalidReferralCodeRetry": {
+    "message": "Mã không hợp lệ. Kiểm tra và thử lại."
+  },
+  "errorVerificationFailed": {
+    "message": "Xác minh thất bại. Thử lại."
+  },
+  "errorPleaseTryAgain": {
+    "message": "Thử lại."
+  },
+  "bonusAddedText": {
+    "message": "5 Robux đã được thêm vào số dư RoEarn của bạn!"
+  },
+  "yourBalanceLabel": {
+    "message": "Số Dư RoEarn Của Bạn"
+  },
+  "withdrawButton": {
+    "message": "Rút về Roblox"
+  },
+  "errorMinWithdrawal": {
+    "message": "Số tiền rút tối thiểu là 4 Robux."
+  },
+  "withdrawalSuccessTitle": {
+    "message": "Rút Tiền Thành Công"
+  },
+  "withdrawalSuccessMessage": {
+    "message": "Vui lòng kiểm tra <b><u>Robux Đang chờ</u></b> và <b><u>Bán hàng hóa</u></b> của bạn sau khoảng 45 giây, vì giao dịch mua có thể mất một chút thời gian để xuất hiện."
+  },
+  "viewTransactionsCountdown": {
+    "message": "Xem Giao Dịch ($1)"
+  },
+  "viewTransactionsButton": {
+    "message": "Xem Giao Dịch"
+  },
+  "referralProgramTitle": {
+    "message": "Mời Bạn Bè"
+  },
+  "yourReferralCodeLabel": {
+    "message": "Mã Mời Của Bạn"
+  },
+  "copyButton": {
+    "message": "Sao Chép"
+  },
+  "copiedButton": {
+    "message": "Đã Sao Chép!"
+  },
+  "totalEarnedLabel": {
+    "message": "Tổng Thu Nhập"
+  },
+  "referralsLabel": {
+    "message": "Lời mời"
+  },
+  "referralDescription": {
+    "message": "<span class=\"roearn-referral-highlight\">Chia sẻ mã mời của bạn. </span>Khi ai đó cài đặt RoEarn bằng mã của bạn, bạn kiếm được <b>15 Robux ngay lập tức!</b><br><br>Bất kỳ ai sử dụng mã mời của bạn sẽ nhận được <b>5 Robux!</b><br><br><b>⚠️ Tuyên bố miễn trừ trách nhiệm:</b> Các tài khoản thay thế sẽ không nhận được phần thưởng 15 Robux."
+  },
+  "backButton": {
+    "message": "← Quay Lại"
+  },
+  "yourReferralsTitle": {
+    "message": "Lời Mời Của Bạn"
+  },
+  "noReferralsMessage": {
+    "message": "Chưa có lời mời. Chia sẻ mã để bắt đầu kiếm tiền!"
+  },
+  "loadingReferralProfiles": {
+    "message": "Đang tải hồ sơ được mời..."
+  },
+  "errorAuthFailed": {
+    "message": "Xác thực thất bại. Đảm bảo bạn đã đăng nhập Roblox."
+  },
+  "errorAuthRetry": {
+    "message": "Xác thực thất bại. Thử lại."
+  },
+  "errorFetchGames": {
+    "message": "Không thể tải game. Đảm bảo bạn có ít nhất một game."
+  },
+  "errorFetchGamesRetry": {
+    "message": "Không thể tải game. Thử lại."
+  },
+  "errorNoGames": {
+    "message": "Bạn cần tạo game Roblox trước khi sử dụng mã giới thiệu."
+  },
+  "errorSecurityToken": {
+    "message": "Không thể lấy token bảo mật. Làm mới trang và thử lại."
+  },
+  "errorCreateGamepass": {
+    "message": "Không thể tạo gamepass xác minh. Thử lại."
+  },
+  "errorUpdateGamepass": {
+    "message": "Không thể cập nhật chi tiết gamepass. Thử lại."
+  },
+  "errorFetchGamepasses": {
+    "message": "Không thể tải gamepasses. Thử lại."
+  },
+  "errorNoGamepasses": {
+    "message": "Không có gamepass để xác minh. Thử lại."
+  },
+  "errorUpdateVerification": {
+    "message": "Không thể cập nhật gamepass để xác minh. Thử lại."
+  },
+  "errorUnexpected": {
+    "message": "Đã xảy ra lỗi. Thử lại."
+  },
+  "cartTitle": {
+    "message": "Giỏ Hàng ($1)"
+  },
+  "cartEmpty": {
+    "message": "Giỏ hàng của bạn trống"
+  },
+  "cartRemove": {
+    "message": "Xóa"
+  },
+  "cartTotal": {
+    "message": "Tổng: $1 mục"
+  },
+  "cartTotalPlural": {
+    "message": "Tổng: $1 mục"
+  },
+  "checkoutBulkStep2": {
+    "message": "Bạn sẽ được yêu cầu mua các mục của bạn trong trò chơi."
+  },
+  "checkoutBulkStep2Single": {
+    "message": "Bạn sẽ được yêu cầu mua mục của bạn trong trò chơi."
+  },
+  "cartTotalLabel": {
+    "message": "Tổng"
+  },
+  "addToCart": {
+    "message": "Thêm vào Giỏ Hàng RoEarn"
+  },
+  "removeFromCart": {
+    "message": "Xóa khỏi Giỏ Hàng RoEarn"
+  },
+  "somethingWentWrong": {
+    "message": "Đã xảy ra lỗi. Vui lòng thử lại sau vài phút."
+  },
+  "copyExtensionLink": {
+    "message": "Sao chép liên kết tiện ích"
+  },
+  "altDetectedText": {
+    "message": "⚠️ Tài khoản đáng ngờ"
+  },
+  "pendingRobuxNotice": {
+    "message": "Bạn có X Robux đang chờ. Quay lại kiểm tra sau 2 phút."
+  },
+  "tooltipOffSale": {
+    "message": "Mặt hàng này không đủ điều kiện nhận hoàn tiền vì bản gốc hiện không có sẵn để mua."
+  },
+  "contentCreatorTitle": {
+    "message": "Tạo Shorts & Kiếm Robux"
+  },
+  "contentCreatorPayout": {
+    "message": "Nhận 100 Robux cho mỗi 1.000 lượt xem trên YouTube & TikTok"
+  },
+  "contentCreatorDescription": {
+    "message": "Video phải là một video ngắn chất lượng cao thể hiện rõ ràng tiện ích mở rộng RoEarn và các tính năng của nó. Nên đăng video lên TikTok và YouTube."
+  },
+  "contentCreatorContact": {
+    "message": "Liên hệ creators@roearn.io để nhận Robux của bạn"
+  },
+  "contentCreatorLink": {
+    "message": "🔗 Đảm bảo bao gồm \"roearn.io\" trong video của bạn!"
+  }
+}
